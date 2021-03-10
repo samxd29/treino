@@ -1,4 +1,4 @@
-# treino
+# Treino
 ## Treinando o Css e html com página responsiva
 
-![Projeto de treinamento](treino.jpg)
+![Projeto de treinamento](treino.png)
